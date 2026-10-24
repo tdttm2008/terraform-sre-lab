@@ -1,11 +1,7 @@
 {
   "recommendations": [
     "hashicorp.terraform",
-    "usernamehw.errorlens",
-    "amazonwebservices.aws-toolkit-vscode",
-    "github.vscode-github-actions",
-    "AquaSecurityOfficial.trivy-vulnerability-scanner",
-    "eamodio.gitlens"
+    "usernamehw.errorlens"
   ],
   "unwantedRecommendations": [
     "4ops.terraform"
